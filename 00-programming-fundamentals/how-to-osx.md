@@ -1,6 +1,6 @@
 
 
-# How to OS X: An Ode to Keyboard Shortcuts
+# How to macOS: An Ode to Keyboard Shortcuts
 
 The mouse is slow, especially on a laptop. There are *tons* of hotkeys, tricks, and techniques, to make your usage fast and efficient entirely from the keyboard. You will certainly learn many of these during your career, we'll start by learning just a few.  
 
